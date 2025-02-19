@@ -8,4 +8,4 @@ Click [here](https://docs.google.com/drawings/d/13gkYb2krqrPHui8p_2tW8_Qr0NpzlV6
 ## Credits
 
 [Luca Herron](https://github.com/lucah8212)
-[Valentino Roque](https;//github.com/valentinor4687)
+[Valentino Roque](https://github.com/valentinor4687)
