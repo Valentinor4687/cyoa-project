@@ -1,4 +1,4 @@
-# Drive conservative
+# Drive hard
 You damage your front wing! What do you do next?
 
 [Stay out on the track](stayout.md)
